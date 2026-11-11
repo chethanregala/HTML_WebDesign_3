@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TĀVA">
+  <rect width="64" height="64" fill="#202326" />
+  <rect x="8" y="8" width="48" height="48" fill="none" stroke="#4257D6" stroke-width="3" />
+  <path d="M18 22h28M32 22v26" stroke="#F2EFE8" stroke-width="5" stroke-linecap="square" />
+  <circle cx="47" cy="45" r="6" fill="#F06445" />
+  <rect x="14" y="43" width="10" height="6" fill="#C8D36A" />
+</svg>
